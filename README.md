@@ -4,7 +4,6 @@
 **Wang-Sheng-wang/Wang-Sheng-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 🔭 我目前正在工作。。。
+- 🌱 我目前正在学习Java
+- 👯 我希望合作。。。
+- 🤔 我正在寻求帮助。。。
+- 💬 问我关于。。。
+- 📫 如何联系我：。。。
+- 😄 代词：。。。
+- ⚡ 有趣的事实：。。。
+- -->
+
+- 🌱 I’m currently learning Java
